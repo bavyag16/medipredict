@@ -1,0 +1,20 @@
+[
+  {"name": "Dr. Anita Das", "specialty": "Dermatologist", "rating": 4.6, "hospital": "Apollo Hospitals", "location": "Chennai"},
+  {"name": "Dr. Ramesh Pillai", "specialty": "Dermatologist", "rating": 4.4, "hospital": "Kovai Medical Center", "location": "Coimbatore"},
+  {"name": "Dr. Lakshmi Iyer", "specialty": "Allergist", "rating": 4.5, "hospital": "PSG Hospitals", "location": "Coimbatore"},
+  {"name": "Dr. Suresh Kumar", "specialty": "Gastroenterologist", "rating": 4.7, "hospital": "Ganga Hospital", "location": "Coimbatore"},
+  {"name": "Dr. Meena Reddy", "specialty": "Hepatologist", "rating": 4.6, "hospital": "MIOT International", "location": "Chennai"},
+  {"name": "Dr. Arvind Nair", "specialty": "Infectious Disease Specialist", "rating": 4.5, "hospital": "Apollo Hospitals", "location": "Chennai"},
+  {"name": "Dr. Priya Raman", "specialty": "Endocrinologist", "rating": 4.8, "hospital": "PSG Hospitals", "location": "Coimbatore"},
+  {"name": "Dr. Arjun Mehta", "specialty": "Pulmonologist", "rating": 4.6, "hospital": "Ganga Hospital", "location": "Coimbatore"},
+  {"name": "Dr. Vijay Anand", "specialty": "Cardiologist", "rating": 4.9, "hospital": "MIOT International", "location": "Chennai"},
+  {"name": "Dr. Kavya Nair", "specialty": "Neurologist", "rating": 4.7, "hospital": "Apollo Hospitals", "location": "Chennai"},
+  {"name": "Dr. Mohan Rao", "specialty": "Orthopedist", "rating": 4.5, "hospital": "Ganga Hospital", "location": "Coimbatore"},
+  {"name": "Dr. Sundar Raj", "specialty": "General Physician", "rating": 4.5, "hospital": "Kovai Medical Center", "location": "Coimbatore"},
+  {"name": "Dr. Deepa Krishnan", "specialty": "General Physician", "rating": 4.3, "hospital": "Revathi Medical Center", "location": "Tiruppur"},
+  {"name": "Dr. Karthik Subramanian", "specialty": "Proctologist", "rating": 4.4, "hospital": "Apollo Hospitals", "location": "Chennai"},
+  {"name": "Dr. Nisha Varma", "specialty": "Vascular Surgeon", "rating": 4.6, "hospital": "MIOT International", "location": "Chennai"},
+  {"name": "Dr. Rajesh Iyer", "specialty": "Rheumatologist", "rating": 4.5, "hospital": "Manipal Hospital", "location": "Bangalore"},
+  {"name": "Dr. Geetha Murthy", "specialty": "ENT Specialist", "rating": 4.6, "hospital": "PSG Hospitals", "location": "Coimbatore"},
+  {"name": "Dr. Praveen Kumar", "specialty": "Urologist", "rating": 4.7, "hospital": "Sri Ramachandra Medical Centre", "location": "Chennai"}
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "patient": "bavya ganesan",
+    "doctor": "Dr. Anita Das",
+    "specialty": "Dermatologist",
+    "date": "2026-06-11",
+    "time": "14:09",
+    "booked_at": "2026-06-11T13:09:22"
+  },
+  {
+    "id": 2,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-30",
+    "time": "15:16",
+    "booked_at": "2026-06-11T13:16:52"
+  },
+  {
+    "id": 3,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-24",
+    "time": "14:23",
+    "booked_at": "2026-06-11T13:19:20"
+  },
+  {
+    "id": 4,
+    "patient": "bavya",
+    "doctor": "Dr. Sneha Pillai",
+    "specialty": "Gastroenterologist",
+    "date": "2026-07-16",
+    "time": "17:26",
+    "booked_at": "2026-06-11T13:21:33"
+  },
+  {
+    "id": 5,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-12",
+    "time": "19:41",
+    "booked_at": "2026-06-11T16:38:44"
+  },
+  {
+    "id": 6,
+    "patient": "dhanya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-23",
+    "time": "2:00 PM",
+    "booked_at": "2026-06-11T16:43:33"
+  },
+  {
+    "id": 7,
+    "patient": "deepa",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-16",
+    "time": "9:30 AM",
+    "booked_at": "2026-06-11T16:53:17"
+  },
+  {
+    "id": 8,
+    "patient": "bavya",
+    "doctor": "Dr. Rajesh Iyer",
+    "specialty": "Gastroenterologist",
+    "date": "2026-06-17",
+    "time": "10:30 AM",
+    "booked_at": "2026-06-11T17:06:45"
+  },
+  {
+    "id": 9,
+    "patient": "bavya",
+    "doctor": "Dr. Rajesh Iyer",
+    "specialty": "Gastroenterologist",
+    "date": "2026-06-30",
+    "time": "10:30 AM",
+    "booked_at": "2026-06-11T17:10:53"
+  },
+  {
+    "id": 10,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-19",
+    "time": "11:00 AM",
+    "booked_at": "2026-06-11T18:17:19"
+  },
+  {
+    "id": 11,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-23",
+    "time": "4:00 PM",
+    "booked_at": "2026-06-11T18:25:50"
+  },
+  {
+    "id": 12,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-16",
+    "time": "12:30 PM",
+    "booked_at": "2026-06-11T22:13:05"
+  },
+  {
+    "id": 13,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-24",
+    "time": "12:30 PM",
+    "booked_at": "2026-06-11T22:17:09"
+  },
+  {
+    "id": 14,
+    "patient": "bavy",
+    "doctor": "Dr. Anita Das",
+    "specialty": "Dermatologist",
+    "date": "2026-06-16",
+    "time": "10:00 AM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-12T12:46:30"
+  },
+  {
+    "id": 15,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-07-01",
+    "time": "5:00 PM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-12T12:51:40"
+  },
+  {
+    "id": 16,
+    "patient": "bavya",
+    "doctor": "Dr. Leela Krishnan",
+    "specialty": "Allergist",
+    "date": "2026-06-22",
+    "time": "11:00 AM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-12T13:11:50"
+  },
+  {
+    "id": 17,
+    "patient": "bavya",
+    "doctor": "Dr. Vivek Menon",
+    "specialty": "Dermatologist",
+    "date": "2026-06-25",
+    "time": "4:30 PM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-15T13:37:46"
+  },
+  {
+    "id": 18,
+    "patient": "bavya",
+    "doctor": "Dr. Ramesh Pillai",
+    "specialty": "Dermatologist",
+    "date": "2026-06-17",
+    "time": "10:30 AM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-15T22:26:28"
+  },
+  {
+    "id": 19,
+    "patient": "bavya",
+    "doctor": "Dr. Ramesh Pillai",
+    "specialty": "Dermatologist",
+    "date": "2026-06-17",
+    "time": "10:30 AM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-15T22:26:53"
+  },
+  {
+    "id": 20,
+    "patient": "bavya",
+    "doctor": "Dr. Anita Das",
+    "specialty": "Dermatologist",
+    "date": "2026-06-17",
+    "time": "10:30 AM",
+    "disease": "",
+    "confidence": 0,
+    "severity": "",
+    "symptoms": [],
+    "booked_at": "2026-06-15T22:28:11"
+  },
+  {
+    "id": 21,
+    "patient": "bavya",
+    "doctor": "Dr. Ramesh Pillai",
+    "specialty": "Dermatologist",
+    "hospital": "Kovai Medical Center",
+    "date": "2026-06-17",
+    "time": "10:30 AM",
+    "disease": "Fungal infection",
+    "confidence": 0.959,
+    "symptoms": [
+      "itching",
+      "skin_rash",
+      "nodal_skin_eruptions"
+    ],
+    "booked_at": "2026-06-15T22:37:54"
+  },
+  {
+    "id": 22,
+    "patient": "bavya",
+    "doctor": "Dr. Anita Das",
+    "specialty": "Dermatologist",
+    "hospital": "Apollo Hospitals",
+    "date": "2026-06-21",
+    "time": "12:00 PM",
+    "disease": "Fungal infection",
+    "confidence": 0.959,
+    "symptoms": [
+      "itching",
+      "skin_rash",
+      "nodal_skin_eruptions"
+    ],
+    "booked_at": "2026-06-18T14:52:41"
+  },
+  {
+    "id": 23,
+    "patient": "bavya",
+    "doctor": "Dr. Anita Das",
+    "specialty": "Dermatologist",
+    "hospital": "Apollo Hospitals",
+    "date": "2026-07-02",
+    "time": "10:30 AM",
+    "disease": "Fungal infection",
+    "confidence": 0.959,
+    "symptoms": [
+      "itching",
+      "skin_rash",
+      "nodal_skin_eruptions"
+    ],
+    "booked_at": "2026-06-30T19:53:05"
+  }
+]
